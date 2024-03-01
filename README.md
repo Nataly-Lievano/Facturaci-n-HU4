@@ -1,1 +1,4 @@
-# Facturaci-n-HU4
+# Facturacion-HU4
+Integrantes:
+* Nataly Lievano
+* Cristian Lizarazo
